@@ -1,1 +1,13 @@
 .
+Aktueller Stand:
+
+ich habe mit einem kleinen testdatensatz die MAsterTh nachgebaut. Dort war spec bei ~40% und sens bei über 80%... waren aber nur 4 familien.
+
+
+
+Aktuelles Problem: das Script auf dem Server zum laufen zu bringen.
+
+Ich bin gerade dabei mit denen von support@mi.fu-berlin.de zu klären wie ich benötigte Packages auf den Server bringe.
+Beim Ausführen erhalte ich noch die Meldung: libglpk.so.40 wird nicht gefunden.
+Die executable erstelle ich lokal
+Bin erst morgen (MI) wieder in der Uni, den ganzen Tag und arbeite nur an der BA. Dann probiere ich weiter
